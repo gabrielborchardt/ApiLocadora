@@ -14,7 +14,8 @@ Ao iniciar o app.js, é criada as tabelas necessárias da API.
 
 # Especificações de Utilização
 
-##**Usuários**
+## **Usuários**
+
 	Listar:
 		GET http://localhost:3000/usuarios
 		Retorna todos usuários cadastrados.
@@ -38,7 +39,8 @@ Ao iniciar o app.js, é criada as tabelas necessárias da API.
 		Result: Status 200 (OK) 
 				Status 500 (Login inválido!)
 				
-##**Filmes**
+## **Filmes**
+	
 	Listar:
 		GET http://localhost:3000/filmes
 		Retorna a lista de filmes, com suas informações e quantidade de cópias disponíveis para locação.
@@ -57,7 +59,8 @@ Ao iniciar o app.js, é criada as tabelas necessárias da API.
 		Result: Status 200 - OK - ID 
 				Status 400 - Erro
 				
-##**Locação**
+## **Locação**
+
 	Alugar:
 		http://localhost:3000/locacao/alugar
 		Realizar a locação do filme.
