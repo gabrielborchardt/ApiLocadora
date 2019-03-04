@@ -1,21 +1,21 @@
 # NodeJs - API Locadora de Filmes
 
-# Documentação Postman
+## Documentação Postman
 https://documenter.getpostman.com/view/1261739/S11LsxTQ
 
-# Configurações
-## Aplicativo
-config/appConfig - Porta(3000)
+## Configurações
+### Aplicativo
+	config/appConfig - Porta(3000)
 
-## DataBase
-config/dbConfig - String de Conexão
+### DataBase
+	config/dbConfig - String de Conexão
 
-# Init
+## Init
 Ao iniciar o app.js, é criada as tabelas necessárias da API.
 
-# Especificações de Utilização
+## Especificações de Utilização
 
-## **Usuários**
+### **Usuários**
 
 	Listar:
 		GET http://localhost:3000/usuarios
