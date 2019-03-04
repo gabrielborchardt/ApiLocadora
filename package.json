@@ -1,0 +1,16 @@
+{
+  "name": "apinodejsmysql",
+  "version": "1.0.0",
+  "description": "4all Api NodeJs com MySQL",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "GabrielBorchardt",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "mysql": "^2.16.0"
+  }
+}
