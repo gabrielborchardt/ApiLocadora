@@ -1,7 +1,7 @@
 # NodeJs - API Locadora de Filmes
 
 ## Documentação Postman
-https://documenter.getpostman.com/view/1261739/S11LsxTQ
+	https://documenter.getpostman.com/view/1261739/S11LsxTQ
 
 ## Configurações
 ### Aplicativo
@@ -11,7 +11,7 @@ https://documenter.getpostman.com/view/1261739/S11LsxTQ
 	config/dbConfig - String de Conexão
 
 ## Init
-Ao iniciar o app.js, é criada as tabelas necessárias da API.
+	Ao iniciar o app.js, é criada as tabelas necessárias da API.
 
 ## Especificações de Utilização
 
